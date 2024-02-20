@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **eylonnaamat@gmail.com**
 
-- ⚡ Fun fact **Huge Lakers Fan**
+- ⚡ Fun fact **I'm a huge Lakers fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

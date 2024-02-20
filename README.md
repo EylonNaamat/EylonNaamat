@@ -1,4 +1,4 @@
-![MasterHead](https://www.google.com/search?q=coding%20banner&tbm=isch&tbs=itp:animated&rlz=1C1OKWM_iwIL922IL922&hl=en-GB&sa=X&ved=0CAQQpwVqFwoTCPihnoKfuoQDFQAAAAAdAAAAABAI&biw=1688&bih=781#imgrc=oqhloCkRe2-UdM)
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Eylon Naamat</h1>
 <h3 align="center">B.Sc. in Computer Science & Mathematics with a specialization in CyberSecurity</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
